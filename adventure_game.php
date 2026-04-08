@@ -1,5 +1,3 @@
-php C:\wamp64\www\adventure_game.php
-
 <?php
 
 printf("you find yourself standing in front of a dungeon\n");
